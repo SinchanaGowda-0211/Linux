@@ -1,4 +1,4 @@
-# Linux Learning Journey 🐧
+# Linux Learning Journey 
 
 Welcome to my Linux learning repository.
 
